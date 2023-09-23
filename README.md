@@ -1,4 +1,4 @@
-# style-peta-desa-BIG
+# style-peta-desa 
 Style template untuk simbol & simbologi peta desa (ArcGIS and QGIS worked)
 
 Tribute to LapakGIS.com for (*.style) and .ttf working for ArcGIS
