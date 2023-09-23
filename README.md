@@ -3,7 +3,7 @@ Style template untuk simbol & simbologi peta desa (ArcGIS QGIS)
 
 Tribute to LapakGIS.com for  
 For ArcGIS just go straight open the tutorial on https://www.lapakgis.com/2020/04/style-simbol-peta-praktis-sesuai-teknis.html
-For QGIS just using the .xml and read the pdf for step by step instructions.
+For QGIS just using the (*.xml) and read the pdf for step by step instructions.
 
 
 NOTE for QGIS template! 
